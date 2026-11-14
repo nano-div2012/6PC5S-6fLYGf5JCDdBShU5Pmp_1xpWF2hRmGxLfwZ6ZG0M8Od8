@@ -1,6 +1,11 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "Nexus V1",
+  "packageName": "com.web2apk.nexusv1jute",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "location",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
